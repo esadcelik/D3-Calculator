@@ -1,4 +1,3 @@
-
 function numb(e) {
     document.getElementById("dis").innerHTML = document.getElementById("dis").innerHTML + e.innerHTML;
 }
